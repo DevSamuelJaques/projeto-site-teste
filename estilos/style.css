@@ -9,7 +9,7 @@ background-color: rgb(154, 132, 175);
 main
 {
 background-color: aliceblue;
-width: 500px; <!-- width é largura-->
+width: 500px;
 margin: auto;
 box-shadow: 3px 3px 5px; 
 }
